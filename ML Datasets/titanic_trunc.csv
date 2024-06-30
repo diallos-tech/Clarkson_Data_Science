@@ -1,0 +1,46 @@
+Titanic passager,Status,Disembarked at,Home Country,Age,Year of Birth,Crew or Passenger?,Gender,Class / Department,Embarked,Job,Job details,Ticket Number,Fare Price
+"DE GRASSE, Mr J.",,Cherbourg,,,,Passenger,Male,2nd Class,Southampton,,,761,£1
+"EVANS, Miss",,Cherbourg,,,,Passenger,Female,2nd Class,Southampton,,,88,£1
+"MULLEN,",,Cherbourg,,,,Passenger,Female,2nd Class,Southampton,,,404,£1
+"WOTTON, Mr Henry Swaffin",,Cherbourg,,54,1858,Passenger,Male,1st Class,Southampton,Butcher,Butcher's Shop Proprietor,86,£1 10s
+"BRAND, Mr",,Cherbourg,,,,Passenger,Male,1st Class,Southampton,,,8,£1 10s
+"FLETCHER, Miss N.",,Cherbourg,,,,Passenger,Female,1st Class,Southampton,,,405,£1 10s
+"LENOX-CONYNGHAM, Miss Alice",,Cherbourg,,,,Passenger,Female,1st Class,Southampton,,,75,£1 10s
+"COLERIDGE, Mr Reginald Charles",Victim,Not Disembarked,England,29,1883,Passenger,Male,2nd Class,Southampton,Advertising Consultant,Advertising Consultant,14263,£10 10s
+"STOKES, Mr Philip Joseph",Victim,Not Disembarked,England,25,1887,Passenger,Male,2nd Class,Southampton,Bricklayer,Bricklayer,13540,£10 10s
+"REEVES, Mr David",Victim,Not Disembarked,England,36,1876,Passenger,Male,2nd Class,Southampton,"Carpenter, Joiner",Carpenter / Joiner,17248,£10 10s
+"PARKER, Mr Clifford Richard",Victim,Not Disembarked,Channel Islands,28,1884,Passenger,Male,2nd Class,Southampton,Clerk,Clerk,14888,£10 10s
+"MITCHELL, Mr Henry Michael",Victim,Not Disembarked,Channel Islands,71,1841,Passenger,Male,2nd Class,Southampton,Coach Painter,Coach Painter,24580,£10 10s
+"PAIN, Dr Alfred",Victim,Not Disembarked,Canada,23,1888,Passenger,Male,2nd Class,Southampton,Doctor,Doctor,244278,£10 10s
+"LEYSON, Mr Robert William Norman",Victim,Not Disembarked,England,25,1887,Passenger,Male,2nd Class,Southampton,Engineer,Engineer,29566,£10 10s
+"WHEADON, Mr Edward H.",Victim,Not Disembarked,Channel Islands,66,1846,Passenger,Male,2nd Class,Southampton,Farm Labourer,Farmer,24579,£10 10s
+"BAINBRIGGE, Mr Charles Robert",Victim,Not Disembarked,Channel Islands,23,1888,Passenger,Male,2nd Class,Southampton,Horse Trainer,Horse Trainer,31030,£10 10s
+"OXENHAM, Mr Percy Thomas",Survivor,Not Disembarked,England,22,1889,Passenger,m,2nd Class,Southampton,Mason,Mason,14260,£10 10s
+"KVILLNER, Mr Johan Henrik Johannesson",Victim,Not Disembarked,Sweden,31,1881,Passenger,Male,2nd Class,Southampton,Mechanical Engineer,Mechanical Engineer,18723,£10 10s
+"ANDREW, Mr Frank Thomas",Victim,Not Disembarked,England,25,1886,Passenger,Male,2nd Class,Southampton,Miner,Miner,34050,£10 10s
+"BANFIELD, Mr Frederick James",Victim,Not Disembarked,England,28,1884,Passenger,Male,2nd Class,Southampton,Miner,Miner,34068,£10 10s
+"JENKIN, Mr Stephen Curnow",Victim,Not Disembarked,England,32,1879,Passenger,Male,2nd Class,Southampton,Miner,Miner,33111,£10 10s
+"PENGELLY, Mr Frederick William",Victim,Not Disembarked,England,19,1892,Passenger,m,2nd Class,Southampton,Miner,Miner,28665,£10 10s
+"FILLBROOK, Mr Joseph Charles",Victim,Not Disembarked,England,18,1894,Passenger,Male,2nd Class,Southampton,"Painter, Decorator",Painter & Decorator,15185,£10 10s
+"MELLORS, Mr William John",Survivor,Not Disembarked,England,19,1893,Passenger,Male,2nd Class,Southampton,Salesman,Salesman,751,£10 10s
+"TOOMEY, Miss Ellen Mary",Survivor,FALSE,United States,48,1864,Passenger,f,2nd Class,Southampton,Servant,Servant,13531,£10 10s
+"COLLETT, Mr Sidney Clarence Stuart",Survivor,FALSE,England,25,1887,Passenger,Male,2nd Class,Southampton,,,28034,£10 10s
+"COOK, Mrs Selena",Survivor,FALSE,,22,1890,Passenger,Female,2nd Class,Southampton,,,14266,£10 10s
+"HARRIS, Mr George",Survivor,not,England,62,1850,Passenger,Male,2nd Class,Southampton,,,752,£10 10s
+"ILETT, Miss Bertha",Survivor,not,Channel Islands,17,1894,Passenger,Female,2nd Class,Southampton,,,14885,£10 10s
+"LEMORE, Mrs Amelia ""Milley""",Survivor,not,United States,34,1873,Passenger,fm,2nd Class,Southampton,,,34260,£10 10s
+"NYE, Mrs Elizabeth",Survivor,,United States,29,1882,Passenger,fm,2nd Class,Southampton,,,29395,£10 10s
+"RIDSDALE, Miss Lucy",Survivor,,England,58,1854,Passenger,fm,2nd Class,Southampton,,,14258,£10 10s
+"RUGG, Miss Emily",Survivor,,Channel Islands,21,1890,Passenger,Female,2nd Class,Southampton,,,31026,£10 10s
+"TROUTT, Miss Edwina Celia",Survivor,Not Disembarked,England,27,1884,Passenger,Female,2nd Class,Southampton,,,34218,£10 10s
+"GAVEY, Mr Laurence",Victim,Not Disembarked,Channel Islands,26,1886,Passenger,Male,2nd Class,Southampton,,,31028,£10 10s
+"GILBERT, Mr William",Victim,Not Disembarked,England,47,1865,Passenger,Male,2nd Class,Southampton,,,30769,£10 10s
+"HARRIS, Mr Walter",Victim,Not Disembarked,England,30,1881,Passenger,Male,2nd Class,Southampton,,,14208,£10 10s
+"MACK, Mrs Mary",Victim,Not Disembarked,England,57,1855,Passenger,Female,2nd Class,Southampton,,,S.O./C. 3,£10 10s
+"MUDD, Mr Thomas Cupper",Victim,Not Disembarked,England,16,1895,Passenger,Male,2nd Class,Southampton,,,S.O./P.P 3,£10 10s
+"ROGERS, Mr Reginald Harry",Victim,Not Disembarked,England,18,1893,Passenger,Male,2nd Class,Southampton,,,28004,£10 10s
+"SLEMEN, Mr Richard James",Victim,Not Disembarked,England,35,1876,Passenger,Male,2nd Class,Southampton,,,28206,£10 10s
+"WARE, Mr William Jeffery",Victim,Not Disembarked,England,23,1889,Passenger,Male,2nd Class,Southampton,,,28666,£10 10s
+"DAHLBERG, Miss Gerda Ulrika",Victim,Not Disembarked,Sweden,22,1890,Passenger,Female,3rd Class,Southampton,,,7552,£10 10s 4d
+"LAMB, Mr John Joseph",Victim,Not Disembarked,Ireland,30,1881,Passenger,Male,2nd Class,Queenstown,Gentleman,Gentleman,240261,£10 14s 2d
+"DAKIC, Mr Branko",Victim,Not Disembarked,,19,1893,Passenger,Male,3rd Class,Southampton,General Labourer,General Labourer,349228,£10 3s 5d
