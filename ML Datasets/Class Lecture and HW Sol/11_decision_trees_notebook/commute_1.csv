@@ -1,0 +1,14 @@
+﻿date,dow,temp,conditions,commute_type
+11/28/2022,Monday,20,sun,walk
+11/29/2022,Tuesday,25,sun,walk
+11/30/2022,Wednesday,40,sun,bike
+12/1/2022,Thursday,45,partly sunny,bike
+12/2/2022,Friday,33,partly sunny,walk
+12/6/2022,Tuesday,44,rain,car
+12/7/2022,Wednesday,45,rain,car
+12/8/2022,Thursday,50,rain,car
+12/13/2022,Tuesday,32,cloudy,walk
+12/14/2022,Wednesday,40,cloudy,walk
+12/15/2022,Thursday,44,rain,car
+12/16/2022,Friday,43,sun,bike
+12/17/2022,Saturday,32,partly sunny,walk
